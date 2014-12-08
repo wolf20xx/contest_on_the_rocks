@@ -1,4 +1,7 @@
-contest_on_the_rocks
+contest_on_the_rocks by Unity
 ====================
 
-unity sample on the rocks environments
+Unity sample project on the rocks environments
+
+* project based on proj introduced in http://japan.unity3d.com/developer/document/tutorial/my-first-unity/01.html
+
